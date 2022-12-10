@@ -6,7 +6,7 @@ const Cart = () => {
     <StyledCart>
       <h2>Number of items in Cart</h2>
       <Button>Add item to Cart</Button>
-      <Button>Remove item to Cart</Button>
+      <Button bgColor="red">Remove item to Cart</Button>
     </StyledCart>
   );
 };
